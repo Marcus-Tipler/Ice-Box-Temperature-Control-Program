@@ -1,0 +1,261 @@
+<mxfile host="app.diagrams.net" modified="2023-04-03T10:57:00.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FmMvtLK6fDArVDK_GNAR" version="21.1.4" type="device">
+  <diagram name="Page-1" id="d828vTmZ3IPFZHSPS_5s">
+    <mxGraphModel dx="2487" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="180" width="1240" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-2" value="&lt;b&gt;req (Glacière)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="180" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3yxuppE2eWVhP6wH4s-3" target="vh3yxuppE2eWVhP6wH4s-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-3" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Glacière Autonome&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-4" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Régulation Température&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="vh3yxuppE2eWVhP6wH4s-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-39.999999999999545" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-5" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Affichage Température&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-6" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Alimenter Système&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-7" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Capacité Isolante&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="360" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="vh3yxuppE2eWVhP6wH4s-3" target="vh3yxuppE2eWVhP6wH4s-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="390" as="sourcePoint" />
+            <mxPoint x="-100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="vh3yxuppE2eWVhP6wH4s-3" target="vh3yxuppE2eWVhP6wH4s-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="390" as="sourcePoint" />
+            <mxPoint x="-100" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="vh3yxuppE2eWVhP6wH4s-3" target="vh3yxuppE2eWVhP6wH4s-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="410" as="sourcePoint" />
+            <mxPoint x="20" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3yxuppE2eWVhP6wH4s-19" target="vh3yxuppE2eWVhP6wH4s-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-11" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vh3yxuppE2eWVhP6wH4s-41">
+          <mxGeometry x="0.5823" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-19" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Acquisition de la température&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3yxuppE2eWVhP6wH4s-20" target="vh3yxuppE2eWVhP6wH4s-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3dtD7fLxrsHRnIuMlbFE-6" target="3dtD7fLxrsHRnIuMlbFE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-10" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3dtD7fLxrsHRnIuMlbFE-9">
+          <mxGeometry x="0.0036" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-20" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Système Asservis&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-21" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Affichage température&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-22" value="&quot;block&quot;&lt;br&gt;&lt;b&gt;batterie rechargeable&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-23" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Acquisition de niveau de charge&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="180" y="610" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-24" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Affichage niveau &lt;br&gt;de charge&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="180" y="810" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vh3yxuppE2eWVhP6wH4s-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240.00000000000023" y="450" as="sourcePoint" />
+            <mxPoint x="50" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-240" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="vh3yxuppE2eWVhP6wH4s-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-5" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vh3yxuppE2eWVhP6wH4s-32">
+          <mxGeometry x="0.5111" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vh3yxuppE2eWVhP6wH4s-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="sourcePoint" />
+            <mxPoint x="180" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vh3yxuppE2eWVhP6wH4s-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="450" as="sourcePoint" />
+            <mxPoint x="20" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vh3yxuppE2eWVhP6wH4s-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240.00000000000023" y="450" as="sourcePoint" />
+            <mxPoint x="-280" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-240" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-38" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;Affichage consigne température&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="810" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-40" value="&quot;block&quot;&lt;br&gt;&lt;b&gt;Capteurs&amp;nbsp;Température&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="730" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-42" value="id= &quot;1.1&quot;: Réguler la température à une consigne donné (jusqu&#39;à 25° de moins que la température ambiante)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-43" value="id= &quot;1.2&quot;: Afficher la température actuelle de la glacière a la dixième prêts sur un ordre de 60 à -20°c.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-44" value="id= &quot;1.3&quot;: Alimenter le système avec une batterie rechargeable entre 9 à 24 V avec contrôleur de charge." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-45" value="id= &quot;1.4&quot;: La glacière doit garder ces caractéristiques isolante excellente." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="360" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3yxuppE2eWVhP6wH4s-46" value="id= &quot;1.3.1&quot;: Acquérir le niveau de charge ou de décharge de la batterie&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="180" y="660" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-13" value="refine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3dtD7fLxrsHRnIuMlbFE-1" target="3dtD7fLxrsHRnIuMlbFE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-1" value="id= &quot;1.2.1&quot;: Affichage de la température moyenne et par capteur de la glacière dans l&#39;ordre de 60 à -20°c" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="670" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-3" value="id= &quot;1.1.1.1&quot;: Affichage de la consigne de température sur une interface homme / machine" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="860" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-4" value="id= &quot;1.3.2&quot;: Signalisation du niveau de la charge de la batterie au niveau de l&#39;IHM" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="860" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-6" value="id= &quot;1.1.1&quot;: Boucle de rétroaction pour tomber sur la consigne donné avec une fonction mathématiques.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-7" value="id= &quot;2&quot;: Acquisition de la température moyenne de la glacière en utilisant des capteurs de température.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="590" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-8" value="&quot;block&quot;&lt;br&gt;&lt;b&gt;Fonction Mathématiques&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="650" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-12" value="&quot;block&quot;&lt;br&gt;&lt;b&gt;IHM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="810" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3dtD7fLxrsHRnIuMlbFE-3" target="3dtD7fLxrsHRnIuMlbFE-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="750" as="sourcePoint" />
+            <mxPoint x="270" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-15" value="refine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3dtD7fLxrsHRnIuMlbFE-14">
+          <mxGeometry x="-0.165" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-16" value="refine" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3dtD7fLxrsHRnIuMlbFE-4" target="3dtD7fLxrsHRnIuMlbFE-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="860" as="sourcePoint" />
+            <mxPoint x="440" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-17" value="&quot;requirement&quot;&lt;br&gt;&lt;b&gt;évité une sur décharge&amp;nbsp;de la batterie&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-18" value="id= &quot;1.3.1&quot;: éteindre le système avant que la batterie puisse trop s&#39;épuisé (mesure de sécurité)" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="vh3yxuppE2eWVhP6wH4s-23" target="3dtD7fLxrsHRnIuMlbFE-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="710" as="sourcePoint" />
+            <mxPoint x="380" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="205" as="sourcePoint" />
+            <mxPoint x="-560" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="205" as="sourcePoint" />
+            <mxPoint x="-540" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-24" value="Reyan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="240" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-25" value="Alexis" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="310" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dtD7fLxrsHRnIuMlbFE-26" value="Marcus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="380" width="20" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
